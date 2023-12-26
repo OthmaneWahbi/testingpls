@@ -1,0 +1,5 @@
+io\github\georgwittberger\microserviceexample\productservice\product\Product.class
+io\github\georgwittberger\microserviceexample\productservice\product\ProductService.class
+io\github\georgwittberger\microserviceexample\productservice\Application.class
+io\github\georgwittberger\microserviceexample\productservice\web\ProductController.class
+io\github\georgwittberger\microserviceexample\productservice\web\RouteControllerAdvice.class
